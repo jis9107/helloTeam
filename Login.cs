@@ -1,7 +1,5 @@
+
 class Login
 {
-    public void Login()
-    {
-        Debug.Log("Login");
-    }
+    Debug.Log("Jira 테스트 LogIn 코드입니다.");
 }
